@@ -1,0 +1,5 @@
+sudo ufw allow 9200/tcp
+sudo ufw allow 5601/tcp
+sudo ufw allow 9600/tcp
+sudo ufw allow 9300/tcp
+sudo ufw reload
